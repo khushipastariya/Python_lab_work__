@@ -1,0 +1,3 @@
+# Python_lab_work__
+num = int(input("Enter a number: "))  
+print(num**0.5)
